@@ -1,0 +1,80 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "titulo": "Amazing Spider-Man",
+      "estado": "completado",
+      "descripcion": "An alien invasion hits New York City and the only one who can stop it is…Spider-Man?! And if even that’s not enough, you’ll see a new roommate, new love interests – and a new villain!",
+      "editorial": "Marvel",
+      "anio": "2018",
+      "foto": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/672700/672700._SX360_QL80_TTD_.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Batman: Legends Of The Dark Knight",
+      "estado": "leyendo",
+      "descripcion": "A rotating roster of the world`s top comic book creators deliver unique tales starring Batman in this acclaimed anthology series! Spanning the career of the Dark Knight, these stories celebrate all aspects of the World`s Greatest Detective.",
+      "editorial": "DC",
+      "anio": "1992",
+      "foto": "https://static.posters.cz/image/750/poster/batman-comic-i4516.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Ghost Rider 2099",
+      "estado": "pendiente",
+      "descripcion": " Welcome to Transverse City, where everything’s for sale—if you’re fast enough to take it! Kenshiro “Zero” Cochrane was just your average keyboard cowboy until he shocked with the wrong people and got murdered—life’s a glitch, ain’t it?",
+      "editorial": "Marvel",
+      "anio": "2019",
+      "foto": "https://www.heroesassemble.com/ekmps/shops/markashley/images/ghost-rider-18-2008-marvel-comic-book-10336-p.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "The Walking Dead",
+      "estado": "completado",
+      "descripcion": "Police officer Rick Grimes is shot and put into a coma one day, but awakens a month later to find that the whole world has gone to crap. An incurable zombie plague has overtaken the planet, turning millions into mindless undead and effectively destroying civilization.",
+      "editorial": "Image Comics",
+      "anio": "2003",
+      "foto": "http://pm1.narvii.com/6236/c8d96f4536d62af75ada0fc7080e7fa491decab2_00.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Sin City",
+      "estado": "completado",
+      "descripcion": "It`s a lousy room in a lousy part of a lousy town. But Marv doesn`t care. There`s an angel in the room. She says her name is Goldie. A few hours later, Goldie`s dead without a mark on her perfect body",
+      "editorial": "Dark Horse",
+      "anio": "2010",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Sin_City_Hard_Goodbye.jpg/220px-Sin_City_Hard_Goodbye.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "The Butcher Of Paris",
+      "estado": "leyendo",
+      "descripcion": "In 1944, as Swastikas flew over Paris, one of the most notorious and prolific serial killers in history turned the occupied city into his personal hunting ground. Under the guise of opportunity and freedom, a killer preys on those desperate to flee ...",
+      "editorial": "Dark Horse",
+      "anio": "2019",
+      "foto": "https://m.media-amazon.com/images/I/51YN67WajAL.jpg"
+    },
+    {
+      "estado": "leyendo",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "titulo": "Fantastic Four",
+      "estado": "completado",
+      "descripcion": "Sue storm is targetted for death as the iconoclast cloes in! But why is she in danger? and will she survive?",
+      "editorial": "Marvel",
+      "anio": "1998",
+      "foto": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/728931/728931._SX360_QL80_TTD_.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Steeple",
+      "estado": "pendiente",
+      "descripcion": "A supernatural tale of friendship, the devil, and moral gray areas. Two women with wildly different worldviews become unlikely friends as they navigate the supernatural happenings in a sleepy coastal parish.",
+      "editorial": "Dark Horse",
+      "anio": "2019",
+      "foto": "https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3005037.jpg"
+    }
+  ]
+}
