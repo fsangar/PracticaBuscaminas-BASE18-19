@@ -55,15 +55,6 @@
       "foto": "https://m.media-amazon.com/images/I/51YN67WajAL.jpg"
     },
     {
-      "id": 7,
-      "titulo": "Spider-Man 5: Una Muerte En La Familia",
-      "estado": "leyendo",
-      "descripcion": "El Duende Verde ha vuelto y no se parará hasta que golpee al trepamuros a través de su corazón... ¡Y la mejor manera de hacerlo es poner a todos sus seres queridos en peligro!",
-      "editorial": "Marvel",
-      "anio": "2022",
-      "foto": "https://comicsbarcelona.com/134590-large_default/marvel-saga-peter-parker-spider-man-5-una-muerte-en-la-familia.jpg"
-    },
-    {
       "id": 8,
       "titulo": "Fantastic Four",
       "estado": "completado",
@@ -80,6 +71,15 @@
       "editorial": "Dark Horse",
       "anio": "2019",
       "foto": "https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3005037.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Spider-Man 5: Una Muerte En La Familia",
+      "estado": "leyendo",
+      "descripcion": "El Duende Verde ha vuelto y no se parará hasta que golpee al trepamuros a través de su corazón... ¡Y la mejor manera de hacerlo es poner a todos sus seres queridos en peligro!",
+      "editorial": "Marvel",
+      "anio": "2022",
+      "foto": "https://comicsbarcelona.com/134590-large_default/marvel-saga-peter-parker-spider-man-5-una-muerte-en-la-familia.jpg"
     }
   ]
 }
